@@ -1,0 +1,9 @@
+C:\Users\Skoczu\Desktop\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.exe.config
+C:\Users\Skoczu\Desktop\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.exe
+C:\Users\Skoczu\Desktop\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.pdb
+C:\Users\Skoczu\Desktop\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.csprojResolveAssemblyReference.cache
+C:\Users\Skoczu\Desktop\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.Properties.Resources.resources
+C:\Users\Skoczu\Desktop\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.csproj.GenerateResource.Cache
+C:\Users\Skoczu\Desktop\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.exe
+C:\Users\Skoczu\Desktop\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.pdb
+C:\Users\Skoczu\Desktop\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.KolkoIKrzyzyk.resources
